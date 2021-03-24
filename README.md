@@ -1,2 +1,0 @@
-# DesafioPrime
-Processo de seleção
